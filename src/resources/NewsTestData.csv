@@ -1,0 +1,4 @@
+title_input,news_type_input,audience_input,use_date_input,delete_date_input,text_input,image_input
+Vakho News All,1,6,11-05-2024,11-30-2024,Some sample text which is designated for all audiences,D:/Downloads/news-icon-13640.jpg
+Vakho News Teacher/Parent,1,4,11-05-2024,11-30-2024,Some sample text which is designated for Teachers and parents only,D:/Downloads/news-icon-13640.jpg
+Vakho Future News,1,6,11-30-2024,12-30-2024,Some sample text which is designated for all audiences and will be published next week,D:/Downloads/news-icon-13640.jpg
